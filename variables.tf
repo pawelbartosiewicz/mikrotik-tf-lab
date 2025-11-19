@@ -160,18 +160,18 @@ variable routerInterfaces {
 }
 
 
-variable hostname {
-    type = string
-    description = "address:port to login"
-}
+# variable hostname {
+#     type = string
+#     description = "address:port to login"
+# }
 
-variable username {
-    type = string
-    description = "username to login"
-}
+# variable username {
+#     type = string
+#     description = "username to login"
+# }
 
-variable password {
-    type = string
-    description = "password to login"
-}
+# variable password {
+#     type = string
+#     description = "password to login"
+# }
 
